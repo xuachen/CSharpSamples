@@ -5,7 +5,7 @@ namespace app
     public class Program
     {
         /// <summary>
-        /// Some field.................
+        /// Some field...................
         /// </summary>
         int field = 3;
 
